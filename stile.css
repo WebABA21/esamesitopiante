@@ -165,18 +165,9 @@ INIZIO PARTE NUOVA
 
 
 
+@media (max-width: 500px) 
+{
 
-
-FINE PARTE NUOVA
-
-
-
-
-
-
-
-
-@media (max-width: 500px) {
   body {
     font-size: 14px;
   }
